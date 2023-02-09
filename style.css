@@ -139,6 +139,7 @@ a:hover {
 .d-bloc p a {
   /* color: rgba(255, 255, 255, 0.6); */
   color: white;
+  text-shadow: 0 0 10px black;
 }
 
 .d-bloc .a-btn:hover,
@@ -774,6 +775,7 @@ h4 {
 .white {
   color: #ffffff !important;
   font-size: 18px;
+  text-shadow: 0 0 10px black;
 }
 .travail {
   font-size: 22px;
