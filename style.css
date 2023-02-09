@@ -139,7 +139,7 @@ a:hover {
 .d-bloc p a {
   /* color: rgba(255, 255, 255, 0.6); */
   color: white;
-  text-shadow: 0 0 10px black;
+  /* text-shadow: 0 0 10px black; */
 }
 
 .d-bloc .a-btn:hover,
@@ -680,7 +680,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  /* color: #575757 !important; */
 }
 
 .container {
@@ -731,7 +731,7 @@ p {
 .social {
   max-width: 445px;
   margin: auto;
-  color: #575757;
+  color: white;
 }
 
 h2 {
@@ -775,7 +775,6 @@ h4 {
 .white {
   color: #ffffff !important;
   font-size: 18px;
-  text-shadow: 0 0 10px black;
 }
 .travail {
   font-size: 22px;
